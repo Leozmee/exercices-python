@@ -1,0 +1,10 @@
+jupyter
+ipykernel
+notebook
+numpy
+pandas
+openpyxl
+matplotlib
+seaborn
+plotly
+requests
